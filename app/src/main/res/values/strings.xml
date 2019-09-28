@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Blockchain Voting</string>
+    <string name="login_as_admin">Register as Admin</string>
+    <string name="register_as_voter">Register as Voter</string>
+    <string name="registration_header">Voter Registration</string>
+    <string name="name_hint">Enter Voter Name (as per on UID)</string>
+    <string name="uid_hint">Enter UID (8 digits)</string>
+    <string name="phone_no_hint">Enter Phone number (10 digits)</string>
+    <string name="register_button">Register</string>
+    <string name="name_empty_error">Name can\'t be empty</string>
+    <string name="uid_empty_error">UID can\'t be empty</string>
+    <string name="phone_no_empty_error">Phone number can\'t be empty</string>
+    <string name="uid_length_error">UID must be 8 digits long</string>
+    <string name="phone_no_length_error">Phone no must be 10 digits long</string>
+    <string name="admin_Login_header">Admin Login</string>
+    <string name="fp_authentication_info">Please verify your fingerprint to continue.</string>
+    <string name="voter_info_display_msg">Election info is on the way. please wait...</string>
+    <string name="You_have_selected">You have selected</string>
+    <string name="of_party">of Party</string>
+    <string name="fingerprint_vote_screen">Please Provide Your Fingerprint to Confirm</string>
+    <string name="start_election_button">Start Election</string>
+
+
+    <string name="contract_address">0xD4Dc1506F70ab34a5B6BDD4C509DE616dC23f077</string>
+    <string name="private_key">C1A40E82FBFCACAEE616B40382B887D6C7C92DCBC5E7B720F64D510C9E900082</string>
+    <string name="ropsten_url">https://ropsten.infura.io/f5f2eeac05914a8cb609689820a61d11</string>
+
+</resources>
